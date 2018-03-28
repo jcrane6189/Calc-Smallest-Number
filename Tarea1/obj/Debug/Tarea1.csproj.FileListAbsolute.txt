@@ -1,0 +1,13 @@
+C:\Users\joshu\Desktop\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\joshu\Desktop\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\joshu\Desktop\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\joshu\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\joshu\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+C:\Users\joshu\Documents\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\joshu\Documents\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\joshu\Documents\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\joshu\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\joshu\Documents\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
